@@ -1,1 +1,1 @@
-# -Pjt-Email-Tracking---HTML-CSS-e-JS
+# Criação de trackings de email em HTML simples.
